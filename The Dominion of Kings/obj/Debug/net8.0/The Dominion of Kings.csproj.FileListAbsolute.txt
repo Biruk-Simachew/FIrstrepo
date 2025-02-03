@@ -1,0 +1,14 @@
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  1\The Dominion of Kings\bin\Debug\net8.0\The Dominion of Kings.exe
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  1\The Dominion of Kings\bin\Debug\net8.0\The Dominion of Kings.deps.json
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  1\The Dominion of Kings\bin\Debug\net8.0\The Dominion of Kings.runtimeconfig.json
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  1\The Dominion of Kings\bin\Debug\net8.0\The Dominion of Kings.dll
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  1\The Dominion of Kings\bin\Debug\net8.0\The Dominion of Kings.pdb
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  1\The Dominion of Kings\obj\Debug\net8.0\The Dominion of Kings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  1\The Dominion of Kings\obj\Debug\net8.0\The Dominion of Kings.AssemblyInfoInputs.cache
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  1\The Dominion of Kings\obj\Debug\net8.0\The Dominion of Kings.AssemblyInfo.cs
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  1\The Dominion of Kings\obj\Debug\net8.0\The Dominion of Kings.csproj.CoreCompileInputs.cache
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  1\The Dominion of Kings\obj\Debug\net8.0\The Dominion of Kings.dll
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  1\The Dominion of Kings\obj\Debug\net8.0\refint\The Dominion of Kings.dll
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  1\The Dominion of Kings\obj\Debug\net8.0\The Dominion of Kings.pdb
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  1\The Dominion of Kings\obj\Debug\net8.0\The Dominion of Kings.genruntimeconfig.cache
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  1\The Dominion of Kings\obj\Debug\net8.0\ref\The Dominion of Kings.dll

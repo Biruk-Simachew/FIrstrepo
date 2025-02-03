@@ -1,0 +1,14 @@
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  1\The Defense of Consolas\bin\Debug\net8.0\The Defense of Consolas.exe
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  1\The Defense of Consolas\bin\Debug\net8.0\The Defense of Consolas.deps.json
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  1\The Defense of Consolas\bin\Debug\net8.0\The Defense of Consolas.runtimeconfig.json
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  1\The Defense of Consolas\bin\Debug\net8.0\The Defense of Consolas.dll
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  1\The Defense of Consolas\bin\Debug\net8.0\The Defense of Consolas.pdb
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  1\The Defense of Consolas\obj\Debug\net8.0\The Defense of Consolas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  1\The Defense of Consolas\obj\Debug\net8.0\The Defense of Consolas.AssemblyInfoInputs.cache
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  1\The Defense of Consolas\obj\Debug\net8.0\The Defense of Consolas.AssemblyInfo.cs
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  1\The Defense of Consolas\obj\Debug\net8.0\The Defense of Consolas.csproj.CoreCompileInputs.cache
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  1\The Defense of Consolas\obj\Debug\net8.0\The Defense of Consolas.dll
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  1\The Defense of Consolas\obj\Debug\net8.0\refint\The Defense of Consolas.dll
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  1\The Defense of Consolas\obj\Debug\net8.0\The Defense of Consolas.pdb
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  1\The Defense of Consolas\obj\Debug\net8.0\The Defense of Consolas.genruntimeconfig.cache
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  1\The Defense of Consolas\obj\Debug\net8.0\ref\The Defense of Consolas.dll

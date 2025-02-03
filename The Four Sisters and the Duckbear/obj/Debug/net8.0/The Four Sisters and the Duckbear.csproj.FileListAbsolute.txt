@@ -1,0 +1,14 @@
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  1\The Four Sisters and the Duckbear\bin\Debug\net8.0\The Four Sisters and the Duckbear.exe
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  1\The Four Sisters and the Duckbear\bin\Debug\net8.0\The Four Sisters and the Duckbear.deps.json
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  1\The Four Sisters and the Duckbear\bin\Debug\net8.0\The Four Sisters and the Duckbear.runtimeconfig.json
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  1\The Four Sisters and the Duckbear\bin\Debug\net8.0\The Four Sisters and the Duckbear.dll
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  1\The Four Sisters and the Duckbear\bin\Debug\net8.0\The Four Sisters and the Duckbear.pdb
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  1\The Four Sisters and the Duckbear\obj\Debug\net8.0\The Four Sisters and the Duckbear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  1\The Four Sisters and the Duckbear\obj\Debug\net8.0\The Four Sisters and the Duckbear.AssemblyInfoInputs.cache
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  1\The Four Sisters and the Duckbear\obj\Debug\net8.0\The Four Sisters and the Duckbear.AssemblyInfo.cs
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  1\The Four Sisters and the Duckbear\obj\Debug\net8.0\The Four Sisters and the Duckbear.csproj.CoreCompileInputs.cache
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  1\The Four Sisters and the Duckbear\obj\Debug\net8.0\The Four Sisters and the Duckbear.dll
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  1\The Four Sisters and the Duckbear\obj\Debug\net8.0\refint\The Four Sisters and the Duckbear.dll
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  1\The Four Sisters and the Duckbear\obj\Debug\net8.0\The Four Sisters and the Duckbear.pdb
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  1\The Four Sisters and the Duckbear\obj\Debug\net8.0\The Four Sisters and the Duckbear.genruntimeconfig.cache
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  1\The Four Sisters and the Duckbear\obj\Debug\net8.0\ref\The Four Sisters and the Duckbear.dll

@@ -1,0 +1,14 @@
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  1\Repairing the Clocktower\bin\Debug\net8.0\Repairing the Clocktower.exe
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  1\Repairing the Clocktower\bin\Debug\net8.0\Repairing the Clocktower.deps.json
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  1\Repairing the Clocktower\bin\Debug\net8.0\Repairing the Clocktower.runtimeconfig.json
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  1\Repairing the Clocktower\bin\Debug\net8.0\Repairing the Clocktower.dll
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  1\Repairing the Clocktower\bin\Debug\net8.0\Repairing the Clocktower.pdb
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  1\Repairing the Clocktower\obj\Debug\net8.0\Repairing the Clocktower.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  1\Repairing the Clocktower\obj\Debug\net8.0\Repairing the Clocktower.AssemblyInfoInputs.cache
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  1\Repairing the Clocktower\obj\Debug\net8.0\Repairing the Clocktower.AssemblyInfo.cs
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  1\Repairing the Clocktower\obj\Debug\net8.0\Repairing the Clocktower.csproj.CoreCompileInputs.cache
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  1\Repairing the Clocktower\obj\Debug\net8.0\Repairing the Clocktower.dll
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  1\Repairing the Clocktower\obj\Debug\net8.0\refint\Repairing the Clocktower.dll
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  1\Repairing the Clocktower\obj\Debug\net8.0\Repairing the Clocktower.pdb
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  1\Repairing the Clocktower\obj\Debug\net8.0\Repairing the Clocktower.genruntimeconfig.cache
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  1\Repairing the Clocktower\obj\Debug\net8.0\ref\Repairing the Clocktower.dll
