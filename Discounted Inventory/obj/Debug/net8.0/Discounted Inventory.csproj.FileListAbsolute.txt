@@ -1,0 +1,14 @@
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  2\Discounted Inventory\obj\Debug\net8.0\Discounted Inventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  2\Discounted Inventory\obj\Debug\net8.0\Discounted Inventory.AssemblyInfoInputs.cache
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  2\Discounted Inventory\obj\Debug\net8.0\Discounted Inventory.AssemblyInfo.cs
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  2\Discounted Inventory\obj\Debug\net8.0\Discounted Inventory.csproj.CoreCompileInputs.cache
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  2\Discounted Inventory\bin\Debug\net8.0\Discounted Inventory.exe
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  2\Discounted Inventory\bin\Debug\net8.0\Discounted Inventory.deps.json
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  2\Discounted Inventory\bin\Debug\net8.0\Discounted Inventory.runtimeconfig.json
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  2\Discounted Inventory\bin\Debug\net8.0\Discounted Inventory.dll
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  2\Discounted Inventory\bin\Debug\net8.0\Discounted Inventory.pdb
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  2\Discounted Inventory\obj\Debug\net8.0\Discounted Inventory.dll
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  2\Discounted Inventory\obj\Debug\net8.0\refint\Discounted Inventory.dll
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  2\Discounted Inventory\obj\Debug\net8.0\Discounted Inventory.pdb
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  2\Discounted Inventory\obj\Debug\net8.0\Discounted Inventory.genruntimeconfig.cache
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  2\Discounted Inventory\obj\Debug\net8.0\ref\Discounted Inventory.dll

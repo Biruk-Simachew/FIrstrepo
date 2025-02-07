@@ -1,0 +1,14 @@
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  2\The Magic Cannon\obj\Debug\net8.0\The Magic Cannon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  2\The Magic Cannon\obj\Debug\net8.0\The Magic Cannon.AssemblyInfoInputs.cache
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  2\The Magic Cannon\obj\Debug\net8.0\The Magic Cannon.AssemblyInfo.cs
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  2\The Magic Cannon\obj\Debug\net8.0\The Magic Cannon.csproj.CoreCompileInputs.cache
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  2\The Magic Cannon\bin\Debug\net8.0\The Magic Cannon.exe
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  2\The Magic Cannon\bin\Debug\net8.0\The Magic Cannon.deps.json
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  2\The Magic Cannon\bin\Debug\net8.0\The Magic Cannon.runtimeconfig.json
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  2\The Magic Cannon\bin\Debug\net8.0\The Magic Cannon.dll
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  2\The Magic Cannon\bin\Debug\net8.0\The Magic Cannon.pdb
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  2\The Magic Cannon\obj\Debug\net8.0\The Magic Cannon.dll
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  2\The Magic Cannon\obj\Debug\net8.0\refint\The Magic Cannon.dll
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  2\The Magic Cannon\obj\Debug\net8.0\The Magic Cannon.pdb
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  2\The Magic Cannon\obj\Debug\net8.0\The Magic Cannon.genruntimeconfig.cache
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  2\The Magic Cannon\obj\Debug\net8.0\ref\The Magic Cannon.dll
