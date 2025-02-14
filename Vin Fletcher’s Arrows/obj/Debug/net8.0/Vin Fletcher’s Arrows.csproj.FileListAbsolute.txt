@@ -1,0 +1,14 @@
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  3\Vin Fletcher’s Arrows\bin\Debug\net8.0\Vin Fletcher’s Arrows.exe
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  3\Vin Fletcher’s Arrows\bin\Debug\net8.0\Vin Fletcher’s Arrows.deps.json
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  3\Vin Fletcher’s Arrows\bin\Debug\net8.0\Vin Fletcher’s Arrows.runtimeconfig.json
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  3\Vin Fletcher’s Arrows\bin\Debug\net8.0\Vin Fletcher’s Arrows.dll
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  3\Vin Fletcher’s Arrows\bin\Debug\net8.0\Vin Fletcher’s Arrows.pdb
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  3\Vin Fletcher’s Arrows\obj\Debug\net8.0\Vin Fletcher’s Arrows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  3\Vin Fletcher’s Arrows\obj\Debug\net8.0\Vin Fletcher’s Arrows.AssemblyInfoInputs.cache
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  3\Vin Fletcher’s Arrows\obj\Debug\net8.0\Vin Fletcher’s Arrows.AssemblyInfo.cs
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  3\Vin Fletcher’s Arrows\obj\Debug\net8.0\Vin Fletcher’s Arrows.csproj.CoreCompileInputs.cache
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  3\Vin Fletcher’s Arrows\obj\Debug\net8.0\Vin Fletcher’s Arrows.dll
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  3\Vin Fletcher’s Arrows\obj\Debug\net8.0\refint\Vin Fletcher’s Arrows.dll
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  3\Vin Fletcher’s Arrows\obj\Debug\net8.0\Vin Fletcher’s Arrows.pdb
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  3\Vin Fletcher’s Arrows\obj\Debug\net8.0\Vin Fletcher’s Arrows.genruntimeconfig.cache
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  3\Vin Fletcher’s Arrows\obj\Debug\net8.0\ref\Vin Fletcher’s Arrows.dll
