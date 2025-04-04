@@ -1,0 +1,14 @@
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  6\twosum\obj\Debug\net8.0\twosum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  6\twosum\obj\Debug\net8.0\twosum.AssemblyInfoInputs.cache
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  6\twosum\obj\Debug\net8.0\twosum.AssemblyInfo.cs
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  6\twosum\obj\Debug\net8.0\twosum.csproj.CoreCompileInputs.cache
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  6\twosum\bin\Debug\net8.0\twosum.exe
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  6\twosum\bin\Debug\net8.0\twosum.deps.json
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  6\twosum\bin\Debug\net8.0\twosum.runtimeconfig.json
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  6\twosum\bin\Debug\net8.0\twosum.dll
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  6\twosum\bin\Debug\net8.0\twosum.pdb
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  6\twosum\obj\Debug\net8.0\twosum.dll
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  6\twosum\obj\Debug\net8.0\refint\twosum.dll
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  6\twosum\obj\Debug\net8.0\twosum.pdb
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  6\twosum\obj\Debug\net8.0\twosum.genruntimeconfig.cache
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  6\twosum\obj\Debug\net8.0\ref\twosum.dll

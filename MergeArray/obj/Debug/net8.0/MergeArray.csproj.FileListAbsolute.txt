@@ -1,0 +1,14 @@
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  6\MergeArray\obj\Debug\net8.0\MergeArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  6\MergeArray\obj\Debug\net8.0\MergeArray.AssemblyInfoInputs.cache
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  6\MergeArray\obj\Debug\net8.0\MergeArray.AssemblyInfo.cs
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  6\MergeArray\obj\Debug\net8.0\MergeArray.csproj.CoreCompileInputs.cache
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  6\MergeArray\bin\Debug\net8.0\MergeArray.exe
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  6\MergeArray\bin\Debug\net8.0\MergeArray.deps.json
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  6\MergeArray\bin\Debug\net8.0\MergeArray.runtimeconfig.json
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  6\MergeArray\bin\Debug\net8.0\MergeArray.dll
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  6\MergeArray\bin\Debug\net8.0\MergeArray.pdb
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  6\MergeArray\obj\Debug\net8.0\MergeArray.dll
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  6\MergeArray\obj\Debug\net8.0\refint\MergeArray.dll
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  6\MergeArray\obj\Debug\net8.0\MergeArray.pdb
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  6\MergeArray\obj\Debug\net8.0\MergeArray.genruntimeconfig.cache
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\HW  6\MergeArray\obj\Debug\net8.0\ref\MergeArray.dll
