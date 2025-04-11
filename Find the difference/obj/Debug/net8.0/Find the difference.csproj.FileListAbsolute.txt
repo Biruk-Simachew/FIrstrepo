@@ -1,0 +1,14 @@
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\week 13\Find the difference\obj\Debug\net8.0\Find the difference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\week 13\Find the difference\obj\Debug\net8.0\Find the difference.AssemblyInfoInputs.cache
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\week 13\Find the difference\obj\Debug\net8.0\Find the difference.AssemblyInfo.cs
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\week 13\Find the difference\obj\Debug\net8.0\Find the difference.csproj.CoreCompileInputs.cache
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\week 13\Find the difference\bin\Debug\net8.0\Find the difference.exe
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\week 13\Find the difference\bin\Debug\net8.0\Find the difference.deps.json
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\week 13\Find the difference\bin\Debug\net8.0\Find the difference.runtimeconfig.json
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\week 13\Find the difference\bin\Debug\net8.0\Find the difference.dll
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\week 13\Find the difference\bin\Debug\net8.0\Find the difference.pdb
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\week 13\Find the difference\obj\Debug\net8.0\Find the difference.dll
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\week 13\Find the difference\obj\Debug\net8.0\refint\Find the difference.dll
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\week 13\Find the difference\obj\Debug\net8.0\Find the difference.pdb
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\week 13\Find the difference\obj\Debug\net8.0\Find the difference.genruntimeconfig.cache
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\week 13\Find the difference\obj\Debug\net8.0\ref\Find the difference.dll

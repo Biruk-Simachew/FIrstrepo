@@ -1,0 +1,14 @@
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\week 13\First unique character\obj\Debug\net8.0\First unique character.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\week 13\First unique character\obj\Debug\net8.0\First unique character.AssemblyInfoInputs.cache
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\week 13\First unique character\obj\Debug\net8.0\First unique character.AssemblyInfo.cs
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\week 13\First unique character\obj\Debug\net8.0\First unique character.csproj.CoreCompileInputs.cache
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\week 13\First unique character\bin\Debug\net8.0\First unique character.exe
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\week 13\First unique character\bin\Debug\net8.0\First unique character.deps.json
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\week 13\First unique character\bin\Debug\net8.0\First unique character.runtimeconfig.json
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\week 13\First unique character\bin\Debug\net8.0\First unique character.dll
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\week 13\First unique character\bin\Debug\net8.0\First unique character.pdb
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\week 13\First unique character\obj\Debug\net8.0\First unique character.dll
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\week 13\First unique character\obj\Debug\net8.0\refint\First unique character.dll
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\week 13\First unique character\obj\Debug\net8.0\First unique character.pdb
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\week 13\First unique character\obj\Debug\net8.0\First unique character.genruntimeconfig.cache
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\week 13\First unique character\obj\Debug\net8.0\ref\First unique character.dll

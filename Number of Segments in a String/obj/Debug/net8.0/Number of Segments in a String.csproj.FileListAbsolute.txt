@@ -1,0 +1,14 @@
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\week 13\Number of Segments in a String\bin\Debug\net8.0\Number of Segments in a String.exe
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\week 13\Number of Segments in a String\bin\Debug\net8.0\Number of Segments in a String.deps.json
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\week 13\Number of Segments in a String\bin\Debug\net8.0\Number of Segments in a String.runtimeconfig.json
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\week 13\Number of Segments in a String\bin\Debug\net8.0\Number of Segments in a String.dll
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\week 13\Number of Segments in a String\bin\Debug\net8.0\Number of Segments in a String.pdb
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\week 13\Number of Segments in a String\obj\Debug\net8.0\Number of Segments in a String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\week 13\Number of Segments in a String\obj\Debug\net8.0\Number of Segments in a String.AssemblyInfoInputs.cache
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\week 13\Number of Segments in a String\obj\Debug\net8.0\Number of Segments in a String.AssemblyInfo.cs
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\week 13\Number of Segments in a String\obj\Debug\net8.0\Number of Segments in a String.csproj.CoreCompileInputs.cache
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\week 13\Number of Segments in a String\obj\Debug\net8.0\Number of Segments in a String.dll
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\week 13\Number of Segments in a String\obj\Debug\net8.0\refint\Number of Segments in a String.dll
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\week 13\Number of Segments in a String\obj\Debug\net8.0\Number of Segments in a String.pdb
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\week 13\Number of Segments in a String\obj\Debug\net8.0\Number of Segments in a String.genruntimeconfig.cache
+C:\Users\25191\Documents\Assignments\Sp25\CIS 122\week 13\Number of Segments in a String\obj\Debug\net8.0\ref\Number of Segments in a String.dll
